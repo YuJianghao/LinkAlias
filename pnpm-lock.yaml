@@ -1,0 +1,19 @@
+lockfileVersion: '6.0'
+
+importers:
+
+  .: {}
+
+  app:
+    dependencies:
+      shared:
+        specifier: workspace:*
+        version: link:../shared
+
+  server:
+    dependencies:
+      shared:
+        specifier: workspace:*
+        version: link:../shared
+
+  shared: {}

@@ -1,0 +1,27 @@
+{
+  "name": "link-alias",
+  "version": "0.0.1",
+  "private": true,
+  "description": "A simple way to manage your links.",
+  "keywords": [
+    "short url",
+    "link",
+    "url",
+    "shorten",
+    "shortener",
+    "link alias"
+  ],
+  "bugs": {
+    "url": "https://github.com/YuJianghao/LinkAlias/issues/new"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YuJianghao/LinkAlias.git"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "yujianghao",
+    "email": "yjh2011@live.com"
+  },
+  "packageManager": "pnpm@8.1.0"
+}
