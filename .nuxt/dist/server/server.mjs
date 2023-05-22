@@ -1,1 +1,0 @@
-export { default } from "file:///workspace/LinkAlias/node_modules/.pnpm/@nuxt+vite-builder@3.5.0_@types+node@18.0.0_vue@3.3.4/node_modules/@nuxt/vite-builder/dist/runtime/vite-node.mjs"
